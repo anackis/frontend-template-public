@@ -1,6 +1,4 @@
-# 🚀 React Frontend Template
-
-Modern, production-ready React template with Firebase integration, advanced theming, and comprehensive user management. Built with TypeScript, Material-UI, and modern web development best practices.
+React template with Firebase integration, advanced theming, and comprehensive user management. Built with TypeScript, Material-UI, and modern web development best practices.
 
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -272,84 +270,54 @@ A comprehensive React frontend template designed to accelerate web application d
 ### Desktop Experience
 
 1. **Login Page with Sign In Tab**
-   - Animated sliding panel design with gradient background
+![1](https://github.com/user-attachments/assets/323483c3-155f-47bc-be91-bdbeed08aa3d)
    - Sign in form with email/password validation
-   - Navbar showcasing: logo, navigation links, profile button, theme toggle (sun/moon icon), language selector, logout button
-   - Left sidebar visible with collapsible navigation groups and icons
-   - Right sidebar (customizer) showing theme toggle switch and primary color picker with predefined swatches and color picker tool
-   - Clean, modern interface with neon glow effects
+   - Navbar showcasing: logo, navigation links, profile button, theme toggle, language selector, logout button
+   - Left sidebar visible with collapsible navigation groups
+   - Right sidebar (customizer) showing theme toggle switch and primary color picker 
 
 2. **Login Page with Sign Up Tab**
+![2](https://github.com/user-attachments/assets/17390a43-6b34-4c20-8d99-710a4a84d9e5)
    - Sliding panel animation revealing sign-up form
-   - Registration fields including email, password, and display name
    - Form validation messages for duplicate usernames
-   - Smooth transition between login/signup views
-   - Same navbar and sidebar structure visible
 
 3. **Account Settings - Profile Tab**
-   - Tabbed interface with vertical tabs (profile, security, account actions)
+![3](https://github.com/user-attachments/assets/a7659fa0-e99f-4ae0-bf75-fe400d205985)
+   - Tabbed interface with tabs (profile, security, account actions)
    - Profile header with avatar display
-   - Public info section: username, email, name, surname with edit button
-   - Private info section: address details with edit button
-   - Profile ID display
-   - Logout button in top-right
-   - Responsive layout with clean spacing
+   - Profile info public/private with edit button
 
 4. **Account Settings - Edit Private Info Modal**
-   - Dialog with primary color border and glow effect
-   - Form fields: address, apartment/floor, city, state, zip, phone number
-   - Save and Cancel buttons with hover effects
+![4](https://github.com/user-attachments/assets/5b466f60-6b75-4b55-a49f-3ffe9eca3a84)
    - Validation feedback
-   - Dark mode styling with proper contrast
 
 5. **Light Mode with Latvian Language**
-   - Complete UI in Latvian language (LV)
+![5](https://github.com/user-attachments/assets/02e1dec7-ce60-4b11-8513-d7e5e1a4de1a)
+   - Complete UI in Latvian language (LV) demonstrates full i18n capability
    - Light theme with adjusted colors
-   - Proper contrast and readability
-   - All navigation, buttons, and labels translated
-   - Demonstrates full i18n capability
 
 6. **Interactive Dashboard**
+![6](https://github.com/user-attachments/assets/a40f4556-6ddf-42db-af2a-ae636015108b)
    - Drag-and-drop widget grid
    - Resizable widgets with southeast handles
-   - Visual placeholder during drag operations
    - Responsive grid adapting to container size
    - Multiple widgets with different sizes and positions
-   - Smooth animations during interactions
 
 7. **About Page**
-   - Project description and overview
-   - Technology stack details
-   - Feature highlights
-   - Responsive content sections
-   - Clean typography and spacing
+![7](https://github.com/user-attachments/assets/3b10019a-4d16-4793-8aab-27cf2f1c8878)
+   - Project description, overview and technology stack details
 
 ### Mobile Experience
 
 _Responsive design adapts seamlessly to mobile devices with optimized layouts and touch interactions._
+<p>
+  <img src="https://github.com/user-attachments/assets/bb6ca480-44ec-49e3-904b-4d2efb06d377" height="500" />
+</p>
+<p>
+  <img src="https://github.com/user-attachments/assets/61bef96c-a845-4b94-8ee3-2a0c47d8743a" height="500" />
+  <img src="https://github.com/user-attachments/assets/9c91bc8b-69cc-4f0c-a65b-6b277dd0727b" height="500" />
+</p>
 
-8. **Mobile - Account Settings**
-   - Horizontal scrolling tabs for mobile
-   - Touch-optimized form inputs
-   - Responsive spacing and font sizes
-   - Full-screen layout utilization
-   - Avatar display with upload option
-
-9. **Mobile - Left Sidebar**
-   - Hamburger menu activation
-   - Slide-in animation from left
-   - Full-screen overlay
-   - Collapsible navigation groups
-   - Touch-friendly icon sizes
-   - Close button or backdrop tap to dismiss
-
-10. **Mobile - Right Sidebar (Customizer)**
-    - Settings button opens right sidebar
-    - Slide-in animation from right
-    - Theme toggle switch
-    - Primary color picker
-    - Touch-optimized controls
-    - Responsive color swatch grid
 
 ## 📁 Project Structure
 
